@@ -37,7 +37,7 @@
 ### Education:
  - Georgia State University
  - Computer Science Bachelors
- - GPA: 3.76
+ - GPA: 3.76/4.0
  - Fall 2018 - Present
 <br />
 
