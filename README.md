@@ -5,8 +5,8 @@
 
 - 🌱 I love to learn and always seek out learning opportunities
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play the trombone and hang out with my dog
+- 🥅 2021 Goals: I'm going to make an effort to get my name out in the field more
+- ⚡ Fun fact: I love to program on the side and hang out with my dog
 
 ### Connect with me:
 
