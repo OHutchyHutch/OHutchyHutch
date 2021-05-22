@@ -43,12 +43,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ohutchyhutch&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://ohutchyhutch.com
 [instagram]: https://instagram.com/ohutchyhutch/
